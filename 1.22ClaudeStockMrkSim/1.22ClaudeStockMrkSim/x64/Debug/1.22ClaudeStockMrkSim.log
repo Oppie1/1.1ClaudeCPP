@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.22ClaudeStockMrkSim\1.22ClaudeStockMrkSim\main.cpp(11,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.22ClaudeStockMrkSim\1.22ClaudeStockMrkSim\main.cpp(26,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  1.22ClaudeStockMrkSim.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.22ClaudeStockMrkSim\x64\Debug\1.22ClaudeStockMrkSim.exe
