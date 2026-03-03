@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.56ClaudeAbsrctClsPurVirtFunc\1.56ClaudeAbsrctClsPurVirtFunc\main.cpp(54,6): error C2259: 'Orc': cannot instantiate abstract class
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.56ClaudeAbsrctClsPurVirtFunc\1.56ClaudeAbsrctClsPurVirtFunc\main.cpp(39,7):
+      see declaration of 'Orc'
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.56ClaudeAbsrctClsPurVirtFunc\1.56ClaudeAbsrctClsPurVirtFunc\main.cpp(54,6):
+      due to following members:
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.56ClaudeAbsrctClsPurVirtFunc\1.56ClaudeAbsrctClsPurVirtFunc\main.cpp(54,6):
+      'void Enemy::attack(void)': is abstract
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Claude\1.AClaudeWOppie1Tutorials\1.56ClaudeAbsrctClsPurVirtFunc\1.56ClaudeAbsrctClsPurVirtFunc\main.cpp(14,15):
+      see declaration of 'Enemy::attack'
+  
