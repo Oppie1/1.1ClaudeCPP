@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\atind\source\repos\1.1Oppie1CPP\1.57ClaudeFunctionTemplates\1.57ClaudeFunctionTemplates\main.cpp(27,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\atind\source\repos\1.1Oppie1CPP\1.57ClaudeFunctionTemplates\1.57ClaudeFunctionTemplates\main.cpp(29,20): warning C4101: 'h': unreferenced local variable
+  1.57ClaudeFunctionTemplates.vcxproj -> C:\Users\atind\source\repos\1.1Oppie1CPP\1.57ClaudeFunctionTemplates\x64\Debug\1.57ClaudeFunctionTemplates.exe

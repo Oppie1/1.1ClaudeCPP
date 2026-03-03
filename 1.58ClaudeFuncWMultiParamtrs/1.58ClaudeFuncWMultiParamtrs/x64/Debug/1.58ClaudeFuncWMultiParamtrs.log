@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244: 'return': conversion from 'SECOND' to 'FIRST', possible loss of data
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:         with
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:         [
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:             SECOND=double
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:         ]
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:         and
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:         [
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:             FIRST=int
+C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8): warning C4244:         ]
+      C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(17,8):
+      the template instantiation context (the oldest one first) is
+          C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\1.58ClaudeFuncWMultiParamtrs\main.cpp(28,10):
+          see reference to function template instantiation 'FIRST smaller<int,double>(FIRST,SECOND)' being compiled
+          with
+          [
+              FIRST=int,
+              SECOND=double
+          ]
+  
+  1.58ClaudeFuncWMultiParamtrs.vcxproj -> C:\Users\atind\source\repos\1.1ClaudeCPP\1.58ClaudeFuncWMultiParamtrs\x64\Debug\1.58ClaudeFuncWMultiParamtrs.exe
